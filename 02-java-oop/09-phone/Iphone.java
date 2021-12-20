@@ -22,7 +22,7 @@ public class Iphone extends Phone implements Ringable {
     @Override
     public String unlock() {
         
-        return "Unlock via facial recognition!";
+        return "Unlocking via facial recognition";
     }
 
     

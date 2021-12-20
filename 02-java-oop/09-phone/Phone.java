@@ -12,7 +12,6 @@ public abstract class Phone {
     
     public abstract void displayInfo();
     
-    // getters and setters 
     public void setVersionNumber(String versionNumber) {
         this.versionNumber = versionNumber;
     }

@@ -21,7 +21,7 @@ public class Galaxy extends Phone implements Ringable {
 
     @Override
     public String unlock() {
-        return "Unlock via finger print!";
+        return "Unlocking via finger print";
     }
 
     
